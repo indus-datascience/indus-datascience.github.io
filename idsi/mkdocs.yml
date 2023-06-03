@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Indus Data Science Institute
+site_url: https://indus-datascience.github.io/
+nav:
+	- Home: index.md
+	- About: about.md
+# Configuration
+theme:
+  name: material
